@@ -29,8 +29,6 @@ I am a dedicated student of **C++**. My journey is focused on mastering this pow
 ---
 
 ### 🛠️ MyProjects
-
-*(قم بتغيير `[رابط المشروع على GitHub]` بروابط مشاريعك الفعلية)*
 - **[Banking System Version 1.0](https://github.com/YOUR_GITHUB_USERNAME/Banking-System-V1.0)** - نظام إدارة مصرفية بسيط.
 - **[Banking System Version 1.1](https://github.com/YOUR_GITHUB_USERNAME/Banking-System-V1.1)** - نسخة محسّنة من نظام الإدارة المصرفية.
 - **[MathGame](https://github.com/YOUR_GITHUB_USERNAME/MathGame)** - لعبة رياضية بسيطة لتدريب العقل.
