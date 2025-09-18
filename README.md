@@ -12,11 +12,10 @@ I am a dedicated student of **C++**. My journey is focused on mastering this pow
 - 🔭 &nbsp; I’m currently focused on sharpening my skills in **C++ data structures and algorithms**.
 - 🤝 &nbsp; I’m looking to collaborate on **C++ projects or problem-solving challenges**.
 - 🌱 &nbsp; I’m dedicated to learning new features of the C++ language to write more efficient and clean code.
-- 👨🏻‍💻 &nbsp; All my C++ projects and solutions are available on [Github](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+- 👨🏻‍💻 &nbsp; All my C++ projects and solutions are available on Github.
 - 🎨 &nbsp; I am fascinated by the performance and control C++ offers for building high-performance applications.
 - 💬 &nbsp; Feel free to ask me about my journey with C++, I'm always excited to discuss what I'm learning.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abdalbaset-983866385/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 - 📚 &nbsp; When I am not coding, I'm usually reading about new programming paradigms or diving into a good book.
 
 <br>
