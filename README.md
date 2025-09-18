@@ -32,4 +32,4 @@ I am a dedicated student of **C++**. My journey is focused on mastering this pow
 - **[Banking System Version 1.0](https://github.com/YOUR_GITHUB_USERNAME/Banking-System-V1.0)** - نظام إدارة مصرفية بسيط.
 - **[Banking System Version 1.1](https://github.com/YOUR_GITHUB_USERNAME/Banking-System-V1.1)** - نسخة محسّنة من نظام الإدارة المصرفية.
 - **[MathGame](https://github.com/YOUR_GITHUB_USERNAME/MathGame)** - لعبة رياضية بسيطة لتدريب العقل.
-- **[Rock_Paper_Scissors](https://github.com/YOUR_GITHUB_USERNAME/Rock_Paper_Scissors)** - لعبة حجرة ورقة مقص كلاسيكية.
+- **[Rock_Paper_Scissors](https://github.com/abdallbaset/Problem-Solving/blob/main/Rock_Paper_Scissors%20_project%20%231.cpp)** - لعبة حجرة ورقة مقص كلاسيكية.
