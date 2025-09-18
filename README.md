@@ -1,7 +1,7 @@
 ## Hey 👋, I'm ABDULBSET BLA3M!
 
 <a href='https://www.linkedin.com/in/abdalbaset-983866385/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-
+<br>
 I am a dedicated student of **C++**. My journey is focused on mastering this powerful language and exploring its vast capabilities in software development, problem-solving, and building robust projects from the ground up. This profile is a chronicle of my progress and the projects I'm building along the way.
 <br/>
 <br/>
