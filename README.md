@@ -30,7 +30,7 @@ I am a dedicated student of **C++**. My journey is focused on mastering this pow
 
 ### 🛠️ MyProjects
 - **[ATM System Version 1.0](LINK_TO_ATM_SYSTEM_V1.0_PROJECT_HERE)** - نظام محاكاة بسيط لماكينة الصراف الآلي (ATM).
-- **[Banking System Version 1.2](LINK_TO_BANKING_SYSTEM_V1.2_PROJECT_HERE)** - إصدار متقدم يضيف المزيد من الميزات والتنظيم إلى نظام الإدارة المصرفية.
+- **[Banking System Version 1.2]([LINK_TO_BANKING_SYSTEM_V1.2_PROJECT_HERE](https://github.com/abdallbaset/Problem-Solving/commit/af7a742462a7e6d0073b2a12e25b527119a26c96))** - إصدار متقدم يضيف المزيد من الميزات والتنظيم إلى نظام الإدارة المصرفية.
 - **[Banking System Version 1.1](https://github.com/abdallbaset/Problem-Solving/blob/main/Banking%20System%20Version%201.1.cpp)** - نسخة محسّنة من نظام الإدارة المصرفية.
 - **[Banking System Version 1.0](https://github.com/abdallbaset/Problem-Solving/blob/main/Banking%20System%20Version%201.0.cpp)** - نظام إدارة مصرفية بسيط.
 - **[MathGame](https://github.com/abdallbaset/Problem-Solving/blob/main/MathGame%20_project%20%232.cpp)** - لعبة رياضية بسيطة لتدريب العقل.
