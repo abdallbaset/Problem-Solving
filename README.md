@@ -63,19 +63,19 @@
 | الفئة (Class) | الرابط (Code Link) |
 | :--- | :--- |
 | `clsBankClient.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Business%20Logic%20Layer/clsBankClient.h) |
-| `clsCurrency.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
-| `clsPerson.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
-| `clsUser.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
+| `clsCurrency.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Business%20Logic%20Layer/clsCurrency.h) |
+| `clsPerson.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Business%20Logic%20Layer/clsPerson.h) |
+| `clsUser.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Business%20Logic%20Layer/clsUser.h) |
 
 #### 📚 Libraries (المكتبات المساعدة)
 يضم الفئات الخدمية ووظائف التحقق المشتركة.
 | الفئة (Class) | الرابط (Code Link) |
 | :--- | :--- |
-| `clsDate.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
-| `clsTime.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
-| `clsString.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
-| `clsUtil.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
-| `clsInputValidate.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
+| `clsDate.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Business%20Logic%20Layer/clsDate.h) |
+| `clsTime.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Business%20Logic%20Layer/clsTime.h) |
+| `clsString.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Business%20Logic%20Layer/clsString.h) |
+| `clsUtil.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Business%20Logic%20Layer/clsUtil.h) |
+| `clsInputValidate.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Business%20Logic%20Layer/clsInputValidate.h) |
 
 #### 💻 Screens (الشاشات/الواجهات)
 يحتوي على فئات الواجهة لإدارة التفاعل مع المستخدم.
