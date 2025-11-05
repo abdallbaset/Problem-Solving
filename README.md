@@ -81,24 +81,24 @@
 يحتوي على فئات الواجهة لإدارة التفاعل مع المستخدم.
 | الفئة (Class) | الرابط (Code Link) |
 | :--- | :--- |
-| `clsMainScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/clsMainScreen.h) |
-| `clsScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/clsScreen.h) |
+| `clsMainScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsMainScreen.h) |
+| `clsScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsScreen.h) |
 
 #### 👤 Client Screens (شاشات العملاء)
 تضم الشاشات المخصصة لإدارة حسابات وبيانات العملاء.
 | الفئة (Class) | الرابط (Code Link) |
 | :--- | :--- |
-| `clsAddNewClientsScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/Client/clsAddNewClientsScreen.h) |
-| `clsClientListScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/Client/clsClientListScreen.h) |
-| `clsDeleteClientScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/Client/clsDeleteClientScreen.h) |
-| `clsDepositScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/Client/clsDepositScreen.h) |
-| `clsFindClientScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/Client/clsFindClientScreen.h) |
-| `clsTotalBalanceScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/Client/clsTotalBalanceScreen.h) |
-| `clsTransactionsScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/Client/clsTransactionsScreen.h) |
-| `clsTransferLogScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/Client/clsTransferLogScreen.h) |
-| `clsTransferScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/Client/clsTransferScreen.h) |
-| `clsUpdateClientScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/Client/clsUpdateClientScreen.h) |
-| `clsWithdrawScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/Client/clsWithdrawScreen.h) |
+| `clsAddNewClientsScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsAddNewClientsScreen.h) |
+| `clsClientListScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsClientListScreen.h) |
+| `clsDeleteClientScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsDeleteClientScreen.h) |
+| `clsDepositScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsDepositScreen.h) |
+| `clsFindClientScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsFindClientScreen.h) |
+| `clsTotalBalanceScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsTotalBalanceScreen.h) |
+| `clsTransactionsScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsTransactionsScreen.h) |
+| `clsTransferLogScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsTransferLogScreen.h) |
+| `clsTransferScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsTransferScreen.h) |
+| `clsUpdateClientScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsUpdateClientScreen.h) |
+| `clsWithdrawScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsWithdrawScreen.h) |
 
 #### 💱 Currencies Screens (شاشات العملات)
 تضم الشاشات المخصصة لإدارة أسعار الصرف وتحويل العملات.
