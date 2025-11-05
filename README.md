@@ -69,13 +69,13 @@
 #### 💾 ملفات البيانات (Data Files)
 هي ملفات نصية (`.txt`) يستخدمها النظام لتخزين واسترجاع جميع البيانات بشكل مستمر.
 
-| الملف (File) | الوصف |
-| :--- | :--- |
-| `Clients.txt` | لتخزين بيانات العملاء. |
-| `Currencies.txt` | لتخزين بيانات العملات وأسعار الصرف. |
-| `Users.txt` | لتخزين بيانات المستخدمين. |
-| `LoginRegister.txt` | سجل عمليات الدخول والخروج (**Login Log**). |
-| `TransferLog.txt` | سجل عمليات التحويل (**Transfer Log**). |
+| الملف (File) | الوصف | الرابط (Code Link) |
+| :--- | :--- | :--- |
+| `Clients.txt` | لتخزين بيانات العملاء. | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Data%20Layer/Clients.txt) |
+| `Currencies.txt` | لتخزين بيانات العملات وأسعار الصرف. | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Data%20Layer/Currencies.txt) |
+| `Users.txt` | لتخزين بيانات المستخدمين. | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Data%20Layer/Users.txt) |
+| `LoginRegister.txt` | سجل عمليات الدخول (**Login Log**). | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Data%20Layer/LoginRegister.txt) |
+| `TransferLog.txt` | سجل عمليات التحويل (**Transfer Log**). | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Data%20Layer/TransferLog.txt) |
 
 #### 📂 Core (الفئات الأساسية - Business Logic Layer)
 يحتوي على الكيانات الرئيسية للنظام.
@@ -147,3 +147,5 @@
 | `clsLoginScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsLoginScreen.h) |
 | `clsManageUserScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsManageUserScreen.h) |
 | `clsUpdateUserScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsUpdateUserScreen.h) |
+
+هل تحتاج إلى إضافة أي أقسام أخرى أو تعديل أي من الروابط/الأوصاف في الملف؟
