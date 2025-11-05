@@ -63,19 +63,19 @@
 | الفئة (Class) | الرابط (Code Link) |
 | :--- | :--- |
 | `clsBankClient.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
-| `clsCurrency.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd#diff-54fce7743747f10ba2c3e7a126f390d6148dc391d011a8790b00ce81830c6481) |
-| `clsPerson.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Core/clsPerson.h) |
-| `clsUser.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd#diff-6af7891ba707f51e12e655b9bc3e9d35a5e2d075208fda01e99d5dbed2ba329a) |
+| `clsCurrency.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
+| `clsPerson.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
+| `clsUser.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
 
 #### 📚 Libraries (المكتبات المساعدة)
 يضم الفئات الخدمية ووظائف التحقق المشتركة.
 | الفئة (Class) | الرابط (Code Link) |
 | :--- | :--- |
-| `clsDate.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Libraries/clsDate.h) |
-| `clsTime.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Libraries/clsTime.h) |
-| `clsString.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Libraries/clsString.h) |
-| `clsUtil.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Libraries/clsUtil.h) |
-| `clsInputValidate.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Libraries/clsInputValidate.h) |
+| `clsDate.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
+| `clsTime.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
+| `clsString.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
+| `clsUtil.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
+| `clsInputValidate.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
 
 #### 💻 Screens (الشاشات/الواجهات)
 يحتوي على فئات الواجهة لإدارة التفاعل مع المستخدم.
