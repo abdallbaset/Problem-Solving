@@ -62,7 +62,7 @@
 يحتوي على الكيانات الرئيسية للنظام.
 | الفئة (Class) | الرابط (Code Link) |
 | :--- | :--- |
-| `clsBankClient.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Core/clsBankClient.h) |
+| `clsBankClient.h` | [Code](https://github.com/abdallbaset/Problem-Solving/commit/fb6c1e5ed66ee182548a9c58e17f03d2a90c62fd) |
 | `clsCurrency.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Core/clsCurrency.h) |
 | `clsPerson.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Core/clsPerson.h) |
 | `clsUser.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Core/clsUser.h) |
