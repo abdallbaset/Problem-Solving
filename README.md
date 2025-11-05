@@ -104,21 +104,21 @@
 تضم الشاشات المخصصة لإدارة أسعار الصرف وتحويل العملات.
 | الفئة (Class) | الرابط (Code Link) |
 | :--- | :--- |
-| `clsCurrencyCalculatorScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/Currencies/clsCurrencyCalculatorScreen.h) |
-| `clsCurrencyExchangeMainScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/Currencies/clsCurrencyExchangeMainScreen.h) |
-| `clsFindCurrencyScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/Currencies/clsFindCurrencyScreen.h) |
-| `clsListCurrenciesScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/Currencies/clsListCurrenciesScreen.h) |
-| `clsUpdateCurrencyRateScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/Currencies/clsUpdateCurrencyRateScreen.h) |
+| `clsCurrencyCalculatorScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsCurrencyCalculatorScreen.h) |
+| `clsCurrencyExchangeMainScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsCurrencyExchangeMainScreen.h) |
+| `clsFindCurrencyScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsFindCurrencyScreen.h) |
+| `clsListCurrenciesScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsListCurrenciesScreen.h) |
+| `clsUpdateCurrencyRateScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsUpdateCurrencyRateScreen.h) |
 
 #### 🔒 User Screens (شاشات المستخدمين)
 تضم الشاشات المخصصة لإدارة مستخدمي النظام وصلاحيات الدخول.
 | الفئة (Class) | الرابط (Code Link) |
 | :--- | :--- |
-| `clsAddNewUserScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/User/clsAddNewUserScreen.h) |
-| `clsDeleteUserScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/User/clsDeleteUserScreen.h) |
-| `clsFindUserScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/User/clsFindUserScreen.h) |
-| `clsListUserScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/User/clsListUserScreen.h) |
-| `clsLoginRegisterScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/User/clsLoginRegisterScreen.h) |
-| `clsLoginScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/User/clsLoginScreen.h) |
-| `clsManageUserScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/User/clsManageUserScreen.h) |
-| `clsUpdateUserScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/OOP_Bank_Project/Screens/User/clsUpdateUserScreen.h) |
+| `clsAddNewUserScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsAddNewUserScreen.h) |
+| `clsDeleteUserScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsDeleteUserScreen.h) |
+| `clsFindUserScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsFindUserScreen.h) |
+| `clsListUserScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsListUserScreen.h) |
+| `clsLoginRegisterScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsLoginRegisterScreen.h) |
+| `clsLoginScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsLoginScreen.h) |
+| `clsManageUserScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsManageUserScreen.h) |
+| `clsUpdateUserScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsUpdateUserScreen.h) |
