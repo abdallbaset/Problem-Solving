@@ -1,4 +1,4 @@
-## Hey 👋, I'm ABDULBSET BLA3M
+## مرحباً 👋، أنا عبد الباسط بلاعم (ABDULBSET BLA3M)
 
 <a href='https://www.linkedin.com/in/abdalbaset-983866385/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br>
@@ -11,20 +11,20 @@
 <br/>
 <img align="right" alt="C++ Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="200px"/>
   
-### 🧐 More About Me:
+### 🧐 المزيد عني (More About Me):
 
-- 🔭 &nbsp; I’m currently focused on sharpening my skills in **C++ data structures and algorithms**.
-- 🤝 &nbsp; I’m looking to collaborate on **C++ projects or problem-solving challenges**.
-- 🌱 &nbsp; I’m dedicated to learning new features of the C++ language to write more efficient and clean code.
-- 👨🏻‍💻 &nbsp; All my C++ projects and solutions are available on Github.
-- 🎨 &nbsp; I am fascinated by the performance and control C++ offers for building high-performance applications.
-- 💬 &nbsp; Feel free to ask me about my journey with C++, I'm always excited to discuss what I'm learning.
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abdalbaset-983866385/)
-- 📚 &nbsp; When I am not coding, I'm usually reading about new programming paradigms or diving into a good book.
+* **🔭 أنا أركز حالياً على صقل مهاراتي في هياكل البيانات (Data Structures) والخوارزميات (Algorithms) بلغة **C++**.**
+* **🤝 أتطلع للتعاون في مشاريع **C++** أو تحديات حل المشكلات (Problem-Solving Challenges).**
+* **🌱 أنا ملتزم بتعلم الميزات الجديدة للغة **C++** لكتابة أكواد أكثر كفاءة ونظافة.**
+* **👨🏻‍💻 جميع مشاريعي وحلولي بلغة **C++** متاحة على **Github**.**
+* **🎨 أنا مفتون بالأداء والتحكم الذي توفره **C++** لبناء تطبيقات عالية الكفاءة (High-Performance Applications).**
+* **💬 لا تتردد في سؤالي عن رحلتي مع **C++**، فأنا دائماً متحمس لمناقشة ما أتعلمه.**
+* **📫 لا تتردد في التواصل معي على [LinkedIn](https://www.linkedin.com/in/abdalbaset-983866385/).**
+* **📚 عندما لا أكون منهمكاً في كتابة الكود، أكون عادةً أقرأ عن أنماط البرمجة الجديدة أو أتعمق في كتاب جيد.**
 
 <br>
 
-### 🔨 Languages and Tools:
+### 🔨 اللغات والأدوات (Languages and Tools):
 <a href="https://isocpp.org/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="left" alt="git" height='42px'/> </a>
 <br>
@@ -32,34 +32,54 @@
 
 ---
 
-### 🛠️ My Projects
+### 🛠️ مشاريعي (My Projects)
 
-- **[ATM System Version 1.0](https://github.com/abdallbaset/Problem-Solving/blob/main/ATM%20System%20Version%201.0.cpp)** - نظام محاكاة بسيط لماكينة الصراف الآلي (ATM).
+- **[ATM System Version 1.0](https://github.com/abdallbaset/Problem-Solving/blob/main/ATM%20System%20Version%201.0.cpp)** - نظام محاكاة بسيط لماكينة الصراف الآلي (**ATM**).
 - **[Banking System Version 1.2](https://github.com/abdallbaset/Problem-Solving/blob/main/Banking%20System%20Version%201.2.cpp)** - إصدار متقدم يضيف المزيد من الميزات والتنظيم إلى نظام الإدارة المصرفية.
 - **[Banking System Version 1.1](https://github.com/abdallbaset/Problem-Solving/blob/main/Banking%20System%20Version%201.1.cpp)** - نسخة محسّنة من نظام الإدارة المصرفية.
 - **[Banking System Version 1.0](https://github.com/abdallbaset/Problem-Solving/blob/main/Banking%20System%20Version%201.0.cpp)** - نظام إدارة مصرفية بسيط.
 - **[MathGame](https://github.com/abdallbaset/Problem-Solving/blob/main/MathGame%20_project%20%232.cpp)** - لعبة رياضية بسيطة لتدريب العقل.
 - **[Rock_Paper_Scissors](https://github.com/abdallbaset/Problem-Solving/blob/main/Rock_Paper_Scissors%20_project%20%231.cpp)** - لعبة حجرة ورقة مقص كلاسيكية.
-### 🏦 Advanced Banking Management System (OOP)
 
-هذا المشروع هو نظام إدارة بنك متكامل، تم بناؤه بالكامل بالاعتماد على **مبادئ البرمجة الشيئية (Object-Oriented Programming - OOP)** في لغة C++.
+### 🏦 نظام إدارة البنك المتقدم (Advanced Banking Management System - OOP)
+
+هذا المشروع هو نظام إدارة بنك متكامل، تم بناؤه بالكامل بالاعتماد على **مبادئ البرمجة الشيئية (Object-Oriented Programming - OOP)** في لغة **C++**.
 
 يمثل هذا المشروع تطبيقًا متقدمًا لـ **التصميم النمطي (Modular Design)**، مما يضمن كفاءة الكود وسهولة صيانته وتطويره.
 
 #### ✨ الميزات والوظائف الرئيسية المضافة:
 
-* **تسجيل التحويلات (Transaction Logging):** نظام آلي لتسجيل جميع عمليات التحويل المصرفي في ملفات Log تفصيلية، مما يسهل عمليات المراجعة والتدقيق.
+* **تسجيل التحويلات (Transaction Logging):** نظام آلي لتسجيل جميع عمليات التحويل المصرفي في ملفات **Log** تفصيلية، مما يسهل عمليات المراجعة والتدقيق.
 * **إدارة العملات المتقدمة:** يوفر إمكانية تحويل الأموال بين **جميع العملات المتاحة** وإدارة أسعار الصرف بفعالية باستخدام فئة `clsCurrency` المخصصة.
-* **تتبع الدخول (Login Logging):** ميزة أمان إضافية تسجل جميع محاولات وعمليات الدخول إلى النظام في ملف Log منفصل لتعزيز مستوى الأمان والمراقبة.
-* **هيكلة احترافية (Modular Structure):** تم تقسيم المشروع إلى فروع منظمة ومنطقية (**Core**, **Libraries**, **Screens**)، مما يضمن سهولة الصيانة وقابلية التوسع المستقبلية..
+* **تتبع الدخول (Login Logging):** ميزة أمان إضافية تسجل جميع محاولات وعمليات الدخول إلى النظام في ملف **Log** منفصل لتعزيز مستوى الأمان والمراقبة.
+* **هيكلة احترافية (Modular Structure):** تم تقسيم المشروع إلى فروع منظمة ومنطقية (**Core**, **Libraries**, **Screens**)، مما يضمن سهولة الصيانة وقابلية التوسع المستقبلية.
 
 ---
 
-### 🏛️ Project Structure (هيكلية مشروع البنك المتقدم OOP)
-تم تنظيم المشروع وفقاً لمبادئ OOP المتقدمة لضمان الوضوح والنمطية.
+### 🏛️ هيكلية المشروع (Project Structure - مشروع البنك المتقدم OOP)
+تم تنظيم المشروع وفقاً لمبادئ **OOP** المتقدمة لضمان الوضوح والنمطية.
 
-#### 📂 Core (الفئات الأساسية)
+#### ▶️ الملف التنفيذي (Main Entry Point)
+يحتوي على دالة `main` التي تبدأ تشغيل النظام.
+
+| الملف (File) | الرابط (Code Link) |
+| :--- | :--- |
+| `Bank System.cpp` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Bank%20System.cpp) |
+
+#### 💾 ملفات البيانات (Data Files)
+هي ملفات نصية (`.txt`) يستخدمها النظام لتخزين واسترجاع جميع البيانات بشكل مستمر.
+
+| الملف (File) | الوصف |
+| :--- | :--- |
+| `Clients.txt` | لتخزين بيانات العملاء. |
+| `Currencies.txt` | لتخزين بيانات العملات وأسعار الصرف. |
+| `Users.txt` | لتخزين بيانات المستخدمين. |
+| `LoginRegister.txt` | سجل عمليات الدخول والخروج (**Login Log**). |
+| `TransferLog.txt` | سجل عمليات التحويل (**Transfer Log**). |
+
+#### 📂 Core (الفئات الأساسية - Business Logic Layer)
 يحتوي على الكيانات الرئيسية للنظام.
+
 | الفئة (Class) | الرابط (Code Link) |
 | :--- | :--- |
 | `clsBankClient.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Business%20Logic%20Layer/clsBankClient.h) |
@@ -67,8 +87,9 @@
 | `clsPerson.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Business%20Logic%20Layer/clsPerson.h) |
 | `clsUser.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Business%20Logic%20Layer/clsUser.h) |
 
-#### 📚 Libraries (المكتبات المساعدة)
+#### 📚 Libraries (المكتبات المساعدة - Utilities)
 يضم الفئات الخدمية ووظائف التحقق المشتركة.
+
 | الفئة (Class) | الرابط (Code Link) |
 | :--- | :--- |
 | `clsDate.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Business%20Logic%20Layer/clsDate.h) |
@@ -77,15 +98,17 @@
 | `clsUtil.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Business%20Logic%20Layer/clsUtil.h) |
 | `clsInputValidate.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Business%20Logic%20Layer/clsInputValidate.h) |
 
-#### 💻 Screens (الشاشات/الواجهات)
+#### 💻 Screens (الشاشات/الواجهات - UI Layer)
 يحتوي على فئات الواجهة لإدارة التفاعل مع المستخدم.
+
 | الفئة (Class) | الرابط (Code Link) |
 | :--- | :--- |
 | `clsMainScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsMainScreen.h) |
 | `clsScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsScreen.h) |
 
-#### 👤 Client Screens (شاشات العملاء)
+##### 👤 Client Screens (شاشات العملاء)
 تضم الشاشات المخصصة لإدارة حسابات وبيانات العملاء.
+
 | الفئة (Class) | الرابط (Code Link) |
 | :--- | :--- |
 | `clsAddNewClientsScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsAddNewClientsScreen.h) |
@@ -100,8 +123,9 @@
 | `clsUpdateClientScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsUpdateClientScreen.h) |
 | `clsWithdrawScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsWithdrawScreen.h) |
 
-#### 💱 Currencies Screens (شاشات العملات)
+##### 💱 Currencies Screens (شاشات العملات)
 تضم الشاشات المخصصة لإدارة أسعار الصرف وتحويل العملات.
+
 | الفئة (Class) | الرابط (Code Link) |
 | :--- | :--- |
 | `clsCurrencyCalculatorScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsCurrencyCalculatorScreen.h) |
@@ -110,8 +134,9 @@
 | `clsListCurrenciesScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsListCurrenciesScreen.h) |
 | `clsUpdateCurrencyRateScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsUpdateCurrencyRateScreen.h) |
 
-#### 🔒 User Screens (شاشات المستخدمين)
+##### 🔒 User Screens (شاشات المستخدمين)
 تضم الشاشات المخصصة لإدارة مستخدمي النظام وصلاحيات الدخول.
+
 | الفئة (Class) | الرابط (Code Link) |
 | :--- | :--- |
 | `clsAddNewUserScreen.h` | [Code](https://github.com/abdallbaset/Problem-Solving/blob/main/Ui%20Layer/clsAddNewUserScreen.h) |
